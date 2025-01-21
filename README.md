@@ -106,8 +106,8 @@ The app offers the following features:
 **Transaction Boss View**
 ![](/screenshots/Transaction_Boss.jpg)
 
-[Receipt](/screenshots/Receipt.jpeg)
-![](/screenshots/Receipt.jpeg)
+[Receipt](/screenshots/Receipts.jpeg)
+![](/screenshots/Receipts.jpeg)
 
 # Video
 https://mega.nz/file/UucSyLRC#UIj9FAbpeLzOz8oA7s9aHQPD3I697lWM1By4qE2g9eY
