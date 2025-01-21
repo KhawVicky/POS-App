@@ -8,30 +8,100 @@ The app offers the following features:
 - **Order History** : Maintain detailed records of all past orders.
 - **Customer Management** : Store and manage customer information.
 - **Customer Spending Records** : Track individual customer purchase history.
-- **Receipt Printing** : Generate and print professional receipts.
+- **Receipt Printing** : Generate and print professional receipts,can choose English or Mandarin.
 - **Barcode Search** : Quickly find order records using barcodes.
 
 # Screenshot
-[POS Screen](./POS_system.png)
-![WhatsApp Image 2025-01-18 at 16 56 33_841d4948](https://github.com/user-attachments/assets/b27afbee-1aee-4ce7-ab31-9df68dc89195)
+[POS Screen](/screenshots/POS_System.jpg)
+![](/screenshots/POS_System.jpg)
 
-[Adding Item](./Adding_Item.png)
-![WhatsApp Image 2025-01-18 at 16 56 35_ecfc942e](https://github.com/user-attachments/assets/b033e92e-681b-46bc-acb4-3e76a6d4ce4b)
-![WhatsApp Image 2025-01-18 at 16 56 35_ecfc942e](https://github.com/user-attachments/assets/6ae754ed-e2bb-4136-83e3-7ef3e2cca3a0)
-![WhatsApp Image 2025-01-18 at 16 56 35_f6d5b11b](https://github.com/user-attachments/assets/bac6a182-755b-43ca-afe2-9e12f1818d98)
+**Adding Item**
+![](/screenshots/Adding_Item1.jpg)
+![](/screenshots/Adding_Item2.jpg)
 
-[Discount Screen](./Discout.png)
-![WhatsApp Image 2025-01-18 at 16 56 35_762abacf](https://github.com/user-attachments/assets/695436e2-fbc0-4065-a4d7-1f12efab8119)
+**Adding Custom Item**
+![](/screenshots/Adding_Cus.jpg)
 
-[Transaction Screen](./Transaction.png)
-![WhatsApp Image 2025-01-21 at 14 07 01_1e9c6a75](https://github.com/user-attachments/assets/5829dffb-2da2-43f9-82ff-0dc547f6efd0)
+**Confirmatioin Screen**
+![](/screenshots/Confirmation.jpg)
+![](/screenshots/Confirmation2.jpg)
+![](/screenshots/Confirmation3.jpg)
 
-[Customer Page](./Customer.png)
-![WhatsApp Image 2025-01-18 at 16 56 33_0b36caea](https://github.com/user-attachments/assets/b65141d5-4065-4a1c-87cd-e2cd3d09c1a8)
+**Calculator**
+![](/screenshots/Calculator.jpg)
 
-[Setting Page](./Setting.png)
-![WhatsApp Image 2025-01-18 at 16 56 34_6efb67cb](https://github.com/user-attachments/assets/f6e790f4-962c-4a0b-83a0-21a468b432c1)
+**Deposit**
+![](/screenshots/Deposit.jpg)
+![](/screenshots/Deposit2.jpg)
 
+**Discount**
+![](/screenshots/Discount.jpg)
+
+[Transaction Screen](/screenshots/Transaction.jpg)
+![](/screenshots/Transaction.jpg)
+
+**Transaction Details**
+![](/screenshots/Transaction_Details.jpg)
+![](/screenshots/Transaction_Details2.jpg)
+
+**Edit Transaction** -Can edit image and description only
+![](/screenshots/Edit_Transaction.jpg)
+
+**Print Transaction** - Also can choose English or Mandarin.
+![](/screenshots/Print_Receipt.jpg)
+
+**Delete Transaction**
+![](/screenshots/Delete.jpg)
+![](/screenshots/Deleted.jpg)
+
+**Scaneer** - Users can search for records by scanning the barcode
+![](/screenshots/Scanner.jpg)
+
+**Pickup**
+![](/screenshots/Pick_up.jpg)
+
+**Payment**
+![](/screenshots/After_Payment.jpg)
+![](/screenshots/After_Payment2.jpg)
+
+[Customer Page](/screenshots/Customer.jpg)
+![](/screenshots/Customer.jpg)
+
+**Adding/Edit Customer**
+![](/screenshots/Edit_Customer.jpg)
+
+**Delete Customer**
+![](/screenshots/Delete_Customer.jpg)
+
+**Customer Information** - Clicking on the WhatsApp button to connects directly to the appropriate user in Whatsapp.
+![](/screenshots/Customer_Information.jpg)
+
+**Wallet**
+![](/screenshots/Wallet.jpg)
+
+[Setting Page](/screenshots/Setting.jpg)
+![](/screenshots/Setting.jpg)
+
+[Product Page](/screenshots/Product.jpg)
+![](/screenshots/Product.jpg)
+
+**Product Adding**
+![](/screenshots/Product.jpg)
+
+**Edit Product**
+![](/screenshots/Edit_Product.jpg)
+
+[Category Page](/screenshots/Category.jpg)
+![](/screenshots/Category.jpg)
+
+[Boss View](/screenshots/Boss.jpg) - When click ‘Menu’ 7 times,the boss's exclusive page will be show.
+![](/screenshots/Boss.jpg)
+
+**Payment Boss View**
+![](/screenshots/Payment_Boss.jpg)
+
+**Transaction Boss View**
+![](/screenshots/Transaction_Boss.jpg)
 
 
 
