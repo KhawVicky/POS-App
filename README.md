@@ -22,6 +22,9 @@ The app offers the following features:
 **Adding Custom Item**
 ![](/screenshots/Adding_Cus.jpg)
 
+**Delete Item**
+![](/screenshots/Delete_Item.jpg)
+
 **Confirmatioin Screen**
 ![](/screenshots/Confirmation.jpg)
 ![](/screenshots/Confirmation2.jpg)
